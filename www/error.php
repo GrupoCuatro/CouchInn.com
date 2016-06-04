@@ -1,0 +1,1 @@
+<?php header("Location: http://couchinn.com/layout/index.php?seccion=accesoRestringido") ?>
